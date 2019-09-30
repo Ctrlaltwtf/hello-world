@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "A typical student project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ctrlaltwtf/hello-world.git"
+  },
+  "keywords": [
+    "student",
+    "hello-world"
+  ],
+  "author": "Alex Labins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ctrlaltwtf/hello-world/issues"
+  },
+  "homepage": "https://github.com/Ctrlaltwtf/hello-world#readme"
+}
